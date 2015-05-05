@@ -1,4 +1,4 @@
-# is-iexplorer [![Build Status](https://travis-ci.org/kevva/is-iexplorer.svg?branch=master)](https://travis-ci.org/kevva/is-iexplorer)
+# is-iexplorer
 
 > Check if browser is Internet Explorer
 
