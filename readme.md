@@ -4,6 +4,8 @@
 
 Supports IE6, IE7, IE8, IE9, IE10 and IE11.
 
+*User agent sniffing is [considered](https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent) bad practice and should be avoided if possible.*
+
 
 ## Install
 
